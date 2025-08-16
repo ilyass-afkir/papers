@@ -7,7 +7,7 @@ Where possible, preprints or links are provided.
 
 ## 📄 Information Retrieval for AI-Supported Product Repair and Re-Design
 **Authors:** Lars Arnemann, Sven Winter, Ilyass Afkir, Benjamin Schleich  
-**Venue:** CIRP Design 2025  
+**Venue:** Elsevier Procedia CIRP, CIRP Design 2025 (accepted) 
 **Status:** Accepted  
 
 ### Abstract
